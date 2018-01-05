@@ -36,8 +36,11 @@ div.Wrapper {
 
 p,a {
     margin-left: 10px;
+    font-size: 20px;
     margin-right: 10px;
     font-family: "Arial";
+    word-spacing: 5px;
+    line-height: 150%;
 }
 
 h3 {
